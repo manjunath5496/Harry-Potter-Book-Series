@@ -61,9 +61,6 @@
 <td>3</td>
 </tr>
 <tr>
-<td colspan="2"><hr /></td>
-</tr>
-<tr>
 <th scope="row">Signature</th>
 <td><a class="image" href="2.png"><img src="2.png" srcset="2.png" alt="" width="160" height="93" data-file-width="640" data-file-height="371" /></a></td>
 </tr>
@@ -75,7 +72,6 @@
 </tr>
 </tbody>
 </table>
-
 <hr>
 
 
